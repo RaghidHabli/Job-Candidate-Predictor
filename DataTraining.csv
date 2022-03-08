@@ -1,0 +1,55 @@
+Years,Degree,Skills,Position,Fit
+1.1,bachelor's,"Java,Python, SQL",Junior,Yes
+1.3,master's,"Android Development, SQL",Senior,No
+1.5,bachelor's,C++,Senior,No
+2,master's,"Java,Python, SQL",Junior,Yes
+2.2,bachelor's,"Android Development, SQL",Senior,No
+2.9,master's,"C++, SQL",Junior,Yes
+3,master's,"Java,Python, SQL",Senior,Yes
+3.2,bachelor's,"Android Development, SQL",Senior,No
+3.2,bachelor's,"Java,Python, SQL",Junior,Yes
+3.7,master's,"Android Development, SQL",Junior,Yes
+3.9,bachelor's,"Java,Python, SQL",Senior,No
+4,bachelor's,"Java,Python, SQL",Junior,Yes
+4,master's,"Android Development, SQL",Senior,Yes
+4.1,bachelor's,"Java,Python, SQL",Senior,No
+4.5,master's,"Android Development, SQL",Junior,Yes
+4.9,bachelor's,"C++, Android Development, R",Senior,Yes
+5.1,master's,"Android Development, SQL",Senior,Yes
+5.3,master's,"C++, Android Development, R",Junior,Yes
+5.9,bachelor's,"Android Development, SQL",Senior,Yes
+6,bachelor's,"C++, Android Development, R",Senior,Yes
+6.8,master's,"Android Development, SQL",Junior,Yes
+7.1,bachelor's,"C++, Android Development, R",Senior,Yes
+7.9,master's,"Android Development, SQL",Senior,Yes
+8.2,bachelor's,"C++, Android Development, R",Junior,Yes
+8.7,bachelor's,"Android Development, SQL",Senior,Yes
+9,master's,"C++, Android Development, R",Senior,Yes
+9.5,master's,"Android Development, SQL",Junior,Yes
+9.6,master's,"C++, Android Development, R",Junior,Yes
+10.3,bachelor's,"Android Development, SQL",Senior,Yes
+10.5,bachelor's,"C++, Android Development, R",Senior,Yes
+2.2,master's,"Android Development, SQL",Junior,Yes
+2.9,bachelor's,"C++, Android Development, R",Senior,No
+3,bachelor's,"Android Development, SQL",Junior,Yes
+3.2,master's,"C++, Android Development, R",Senior,No
+3.2,master's,"Android Development, SQL",Senior,No
+3.7,bachelor's,"C++, Android Development, R",Junior,Yes
+3.9,bachelor's,"Android Development, SQL",Senior,No
+4,master's,"C++, Android Development, R",Junior,Yes
+4,bachelor's,"Android Development, SQL",Junior,Yes
+4.1,master's,"C++, Android Development, R",Senior,Yes
+4.5,bachelor's,"Android Development, SQL",Senior,No
+4.9,bachelor's,"C++, Android Development, R",Junior,Yes
+5.1,master's,"Android Development, SQL",Junior,Yes
+5.3,master's,"C++, Android Development, R",Senior,Yes
+5.9,bachelor's,"Android Development, SQL",Senior,No
+6,master's,"C++, Android Development, R",Junior,Yes
+6.8,bachelor's,"Android Development, SQL",Senior,Yes
+7.1,master's,"C++, Android Development, R",Senior,Yes
+5.9,master's,"Android Development, SQL",Junior,No
+6,bachelor's,"C++, Android Development, R",Senior,Yes
+8.7,bachelor's,"Android Development, SQL",Junior,Yes
+9,master's,"C++, Android Development, R",Senior,Yes
+9.5,bachelor's,"Android Development, SQL",Senior,Yes
+9.6,master's,"C++, Android Development, R",Junior,Yes
